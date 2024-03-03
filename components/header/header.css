@@ -1,0 +1,20 @@
+header{
+    height: 10vh;
+    width: 100%;
+    border: 15px solid white;
+    background: black;
+    text-align: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+.heading{
+   color: whitesmoke;
+   font-style: bold;
+   font-size: 100px ;
+   text-align: center;
+   margin-top: 1%;
+}
+.logo{
+    width: 25%;
+    height: 20vh;
+}
